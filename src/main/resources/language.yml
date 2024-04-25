@@ -446,6 +446,13 @@ Leaderboard:
   Unknown-Player: "%color_chat_issue%Unknown Player"
 
 
+Kit:
+  Menu:
+    Lore:
+      Unlocked: 'Unlocked!'
+      Locked: 'Locked!'
+
+
 # Don't edit it. But who's stopping you? It's your server!
 # Really, don't edit ;p
 # You edited it, huh? Next time hurt yourself!
